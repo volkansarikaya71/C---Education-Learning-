@@ -1,0 +1,7 @@
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_01_MainSubject\bin\Debug\CSharp_01_MainSubject.exe.config
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_01_MainSubject\bin\Debug\CSharp_01_MainSubject.exe
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_01_MainSubject\bin\Debug\CSharp_01_MainSubject.pdb
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_01_MainSubject\obj\Debug\CSharp_01_MainSubject.csproj.AssemblyReference.cache
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_01_MainSubject\obj\Debug\CSharp_01_MainSubject.csproj.CoreCompileInputs.cache
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_01_MainSubject\obj\Debug\CSharp_01_MainSubject.exe
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_01_MainSubject\obj\Debug\CSharp_01_MainSubject.pdb

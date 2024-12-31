@@ -1,0 +1,7 @@
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_02_Variables\bin\Debug\CSharp_02_Variables.exe.config
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_02_Variables\bin\Debug\CSharp_02_Variables.exe
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_02_Variables\bin\Debug\CSharp_02_Variables.pdb
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_02_Variables\obj\Debug\CSharp_02_Variables.csproj.AssemblyReference.cache
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_02_Variables\obj\Debug\CSharp_02_Variables.csproj.CoreCompileInputs.cache
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_02_Variables\obj\Debug\CSharp_02_Variables.exe
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_02_Variables\obj\Debug\CSharp_02_Variables.pdb
