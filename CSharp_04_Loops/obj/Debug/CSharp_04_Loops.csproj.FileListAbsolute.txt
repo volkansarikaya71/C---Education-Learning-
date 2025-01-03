@@ -1,0 +1,7 @@
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_04_Loops\bin\Debug\CSharp_04_Loops.exe.config
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_04_Loops\bin\Debug\CSharp_04_Loops.exe
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_04_Loops\bin\Debug\CSharp_04_Loops.pdb
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_04_Loops\obj\Debug\CSharp_04_Loops.csproj.AssemblyReference.cache
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_04_Loops\obj\Debug\CSharp_04_Loops.csproj.CoreCompileInputs.cache
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_04_Loops\obj\Debug\CSharp_04_Loops.exe
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_04_Loops\obj\Debug\CSharp_04_Loops.pdb

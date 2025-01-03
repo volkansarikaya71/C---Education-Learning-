@@ -1,0 +1,7 @@
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_03_MakingDecision\obj\Debug\CSharp_03_MakingDecision.csproj.AssemblyReference.cache
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_03_MakingDecision\obj\Debug\CSharp_03_MakingDecision.csproj.CoreCompileInputs.cache
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_03_MakingDecision\bin\Debug\CSharp_03_MakingDecision.exe.config
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_03_MakingDecision\bin\Debug\CSharp_03_MakingDecision.exe
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_03_MakingDecision\bin\Debug\CSharp_03_MakingDecision.pdb
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_03_MakingDecision\obj\Debug\CSharp_03_MakingDecision.exe
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_03_MakingDecision\obj\Debug\CSharp_03_MakingDecision.pdb

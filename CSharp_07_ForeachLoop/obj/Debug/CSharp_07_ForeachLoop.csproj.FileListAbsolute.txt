@@ -1,0 +1,7 @@
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_07_ForeachLoop\bin\Debug\CSharp_07_ForeachLoop.exe.config
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_07_ForeachLoop\bin\Debug\CSharp_07_ForeachLoop.exe
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_07_ForeachLoop\bin\Debug\CSharp_07_ForeachLoop.pdb
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_07_ForeachLoop\obj\Debug\CSharp_07_ForeachLoop.csproj.AssemblyReference.cache
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_07_ForeachLoop\obj\Debug\CSharp_07_ForeachLoop.csproj.CoreCompileInputs.cache
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_07_ForeachLoop\obj\Debug\CSharp_07_ForeachLoop.exe
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_07_ForeachLoop\obj\Debug\CSharp_07_ForeachLoop.pdb

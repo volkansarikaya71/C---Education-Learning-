@@ -1,0 +1,7 @@
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_05_LoopsWithStars\bin\Debug\CSharp_05_LoopsWithStars.exe.config
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_05_LoopsWithStars\bin\Debug\CSharp_05_LoopsWithStars.exe
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_05_LoopsWithStars\bin\Debug\CSharp_05_LoopsWithStars.pdb
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_05_LoopsWithStars\obj\Debug\CSharp_05_LoopsWithStars.csproj.AssemblyReference.cache
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_05_LoopsWithStars\obj\Debug\CSharp_05_LoopsWithStars.csproj.CoreCompileInputs.cache
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_05_LoopsWithStars\obj\Debug\CSharp_05_LoopsWithStars.exe
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_05_LoopsWithStars\obj\Debug\CSharp_05_LoopsWithStars.pdb

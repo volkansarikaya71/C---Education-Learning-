@@ -1,0 +1,7 @@
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_09_DataBaseProject\bin\Debug\CSharp_09_DataBaseProject.exe.config
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_09_DataBaseProject\bin\Debug\CSharp_09_DataBaseProject.exe
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_09_DataBaseProject\bin\Debug\CSharp_09_DataBaseProject.pdb
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_09_DataBaseProject\obj\Debug\CSharp_09_DataBaseProject.csproj.AssemblyReference.cache
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_09_DataBaseProject\obj\Debug\CSharp_09_DataBaseProject.csproj.CoreCompileInputs.cache
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_09_DataBaseProject\obj\Debug\CSharp_09_DataBaseProject.exe
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_09_DataBaseProject\obj\Debug\CSharp_09_DataBaseProject.pdb
