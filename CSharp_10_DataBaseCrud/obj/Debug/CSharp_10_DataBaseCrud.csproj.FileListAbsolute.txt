@@ -1,0 +1,7 @@
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_10_DataBaseCrud\bin\Debug\CSharp_10_DataBaseCrud.exe.config
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_10_DataBaseCrud\bin\Debug\CSharp_10_DataBaseCrud.exe
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_10_DataBaseCrud\bin\Debug\CSharp_10_DataBaseCrud.pdb
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_10_DataBaseCrud\obj\Debug\CSharp_10_DataBaseCrud.csproj.AssemblyReference.cache
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_10_DataBaseCrud\obj\Debug\CSharp_10_DataBaseCrud.csproj.CoreCompileInputs.cache
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_10_DataBaseCrud\obj\Debug\CSharp_10_DataBaseCrud.exe
+C:\Users\Volkan\source\repos\CSharpDeneme\CSharp_10_DataBaseCrud\obj\Debug\CSharp_10_DataBaseCrud.pdb
