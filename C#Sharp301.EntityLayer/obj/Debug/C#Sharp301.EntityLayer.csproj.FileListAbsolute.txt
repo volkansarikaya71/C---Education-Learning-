@@ -1,0 +1,6 @@
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.EntityLayer\bin\Debug\C#Sharp301.EntityLayer.dll
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.EntityLayer\bin\Debug\C#Sharp301.EntityLayer.pdb
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.EntityLayer\obj\Debug\C#Sharp301.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.EntityLayer\obj\Debug\C#Sharp301.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.EntityLayer\obj\Debug\C#Sharp301.EntityLayer.dll
+C:\Users\Volkan\source\repos\C#Sharp301\C#Sharp301.EntityLayer\obj\Debug\C#Sharp301.EntityLayer.pdb
